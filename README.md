@@ -1,1 +1,1 @@
-Australian post code data was downloaded from other people's blog.  No guarantees on accuracy.
+Australian post code data was downloaded from a blog that came up via googling.  Therefore no guarantees on accuracy.
