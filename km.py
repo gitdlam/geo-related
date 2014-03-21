@@ -10,8 +10,8 @@ def km_from(state, lat2, long2):
         #erskine park
         return distance_on_unit_sphere(-33.804878, 150.803696, lat2, long2)
     if state == "ACT":
-        #erskine park
-        return distance_on_unit_sphere(-33.804878, 150.803696, lat2, long2)        
+        #hume
+        return distance_on_unit_sphere(-35.389297,149.169418, lat2, long2)        
     if state == "QLD":
         #Richlands
         return distance_on_unit_sphere(-27.596125, 152.955811, lat2, long2)
@@ -19,11 +19,11 @@ def km_from(state, lat2, long2):
         #kewdale
         return distance_on_unit_sphere(-31.966288, 115.929962, lat2, long2)
     if state == "SA":
-        #adelaide
-        return distance_on_unit_sphere(-34.905552, 138.610229, lat2, long2)
+        #wingfield
+        return distance_on_unit_sphere(-34.849411,138.568039, lat2, long2)
     if state == "NT":
-        #darwin
-        return distance_on_unit_sphere(-12.466183, 130.84285, lat2, long2)
+        #WINNELLIE
+        return distance_on_unit_sphere(-12.425893,130.870575, lat2, long2)
     if state == "TAS":
         #hobart
         return distance_on_unit_sphere(-42.866241, 147.329956, lat2, long2)
