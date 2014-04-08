@@ -1,0 +1,7 @@
+<div class='googft-info-window'>
+<b>{school_name}</b> {phone}<br>
+<b>Permit:</b> {permit_no}<br>
+<b>Suburb:</b> {suburb} {postcode} <br>
+<b>Partners:</b> {partner} - {ZA} - {ZB}<br>
+
+</div>
